@@ -1,1 +1,1 @@
-# lista de afazeres em vue
+# Landing page em vue.
